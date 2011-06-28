@@ -35,7 +35,7 @@ protected:
     Buildtyp m_buildname;
     int m_iPersonellID; // Spezielle ID für das Gebäude
     float m_fXPos; // X-Position des Gebäudes
-    float m_fYPos; // Y-Position des Schusses
+    float m_fYPos; // Y-Position des Gebäudes
     float m_fXPosv;
     float m_fYPosv;
     float m_fYRenderPos;
